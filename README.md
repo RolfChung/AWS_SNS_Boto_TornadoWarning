@@ -3,8 +3,9 @@
 
 
 <p>
-This project uses the Simple Notification Service (SNS) of AWS. Several basic functions like creating topics, subscriptions, publishing are explained. These functions are used to set up a Tornado warning system, which sends warning messages about incomimg tornados to email endpoints. There are two inputs into the SNS: a contact list of subscribers and tornado information table. Depending on the speed of the Tornado different messages are send out to the endpoints.It is possible to develop the functionality of the warning system further. 
+This project uses the Simple Notification Service (SNS) of AWS. Several basic functions like creating topics, subscriptions, publishing are explained. These functions are used to set up a Tornado warning system, which sends warning messages about incoming tornados to email endpoints. There are two inputs into the SNS: a contact list of subscribers and a tornado information table. Depending on the speed of the Tornado, different messages are sent out to the endpoints . It is possible to develop the functionality of the warning system further.
 </p>
+    
 
 
 <p> 
